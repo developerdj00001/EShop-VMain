@@ -1,0 +1,47 @@
+[
+    {
+        "stmt": "SELECT id, name, price, description, image, category_id\nFROM store_product;",
+        "header": [
+            "id",
+            "name",
+            "price",
+            "description",
+            "image",
+            "category_id"
+        ],
+        "rows": [
+            [
+                "1",
+                "Camisa Branca",
+                "50",
+                "Descrição: Camisa Branca",
+                "products/camisa.jpg",
+                "1"
+            ],
+            [
+                "2",
+                "Camisa Branca 2",
+                "70",
+                "Camisa2produto",
+                "uploads/products/camisa.jpg",
+                "1"
+            ],
+            [
+                "3",
+                "Camisa Branca 3",
+                "80",
+                "Descrição: Camisa Branca 3",
+                "uploads/products/camisa_LI7aLJJ.jpg",
+                "1"
+            ],
+            [
+                "4",
+                "Camisa Branca 4",
+                "85",
+                "Descrição: Camisa Branca",
+                "uploads/products/camisa_ZsBxbMZ.jpg",
+                "2"
+            ]
+        ]
+    }
+]

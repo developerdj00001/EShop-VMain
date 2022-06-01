@@ -1,0 +1,15 @@
+[
+    {
+        "stmt": "SELECT id, name\nFROM store_category;",
+        "header": [
+            "id",
+            "name"
+        ],
+        "rows": [
+            [
+                "1",
+                "CAMISAS"
+            ]
+        ]
+    }
+]
